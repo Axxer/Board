@@ -20,3 +20,6 @@ Nut ist als PHP-Programmierer und Designer tätig.
 
 ### Angus
 Angus ist zum Team dazugekommen, er ist als PHP-Programmierer tätig.
+
+### Axxer
+Axxer hat nun auch github und noch nichts gemacht.
